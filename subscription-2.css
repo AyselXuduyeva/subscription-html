@@ -1,0 +1,23 @@
+ul li {
+    text-decoration: none;
+    list-style-type: none;
+    text-align: center;
+    margin: 20px;
+    color: #737373;
+}
+form input{
+   padding-right: 20%;
+   height: 40px;
+
+}
+form button{
+    padding-right:27%;
+    height: 40px;
+    color: white;
+    background-color: #23A6F0;
+    border-radius: 2%;
+    border-color: #23A6F0;
+}
+h1{
+    color: black;
+}
